@@ -1,0 +1,6 @@
+[submodule "bdx"]
+	path = bdx
+	url = https://github.com/SeonilChoi/bdx.git
+[submodule "togepi"]
+	path = togepi
+	url = https://github.com/SeonilChoi/togepi.git
